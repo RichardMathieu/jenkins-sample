@@ -10,7 +10,7 @@
   
   <properties>
   <sonar.organization>richardmathieu</sonar.organization>
-  <sonar.projectKeyRichardMathieu_jenkins-sample</sonar.projectKey>
+  <sonar.projectKey>RichardMathieu_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
   
